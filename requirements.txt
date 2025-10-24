@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+mysql-connector-python
+langchain-core
+langchain-groq
+langgraph
+python-dotenv
