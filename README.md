@@ -10,7 +10,7 @@ A **LangGraph-powered FastAPI** application for automating supplier catalog data
 - [Features](#features)
 - [Architecture](#architecture)
 - [Prerequisites](#prerequisites)
-- [Installation & Setup](#installation-&-setup) 
+- [Installation and Setup](#installation-and-setup) 
   - [Clone the Repository](#clone-the-repository)
   - [Create Virtual Environment](#create-virtual-environment)
   - [Install Dependencies](#install-dependencies)
